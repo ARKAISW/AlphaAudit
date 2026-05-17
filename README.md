@@ -1,6 +1,18 @@
 # AlphaAudit
 
+<div align="left">
+  <a href="https://alpha-audit-theta.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/ARKAISW/AlphaAudit">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
+</div>
+
+<br />
+
 **AlphaAudit is a live interactive strategy IDE for quantitative traders and researchers.** Paste or write your Python backtesting strategy and receive real-time AI-powered analysis that identifies statistical and logical bugs like look-ahead bias, survivorship bias, and overfitting. Built with IBM Bob during the May 2026 Hackathon, it acts as your AI co-pilot to catch the invisible errors that silently destroy P&L.
+
 
 ## 🎯 The Problem
 
